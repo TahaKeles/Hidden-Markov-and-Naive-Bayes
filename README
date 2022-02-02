@@ -1,0 +1,7 @@
+You can run my scripts by typing 
+
+python3 hmm.py
+python3 nb.py
+
+
+In nb.py, I added some helper functions to implement my model for hw4_data. In the main part, I removed any special characters except digits. Then I trained my model and extracted theta values. After that point I found my predicted values and compare the actual ones. Finally, I printed my Naive Bayes classifier test accuracy.  
